@@ -10,8 +10,6 @@
 </head>
 <body>
     <header>
-        <div class="banner">
-            <a href="http://kaleestudio.github.io/">
             <div class="logo">
                 <img src="./logo.PNG">
             </div>
